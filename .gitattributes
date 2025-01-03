@@ -1,2 +1,2 @@
-git add .gitattributes
-git commit -m "Add .gitattributes for line-ending management"
+*.ipynb text eol=lf
+*.csv text eol=lf
